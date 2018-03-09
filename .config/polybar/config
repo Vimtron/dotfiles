@@ -69,4 +69,4 @@ adapter = AC
 full-at = 99
 
 label-charging = Charging--%percentage%%
-label-discharging = %percentage%%
+label-discharging = Battery: %percentage%%
