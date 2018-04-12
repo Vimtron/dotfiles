@@ -13,15 +13,22 @@ padding = 1
 background = ${colors.background}
 foreground = ${colors.foreground}
 
+;font-0 = artwiz lemon:size=8
 font-0 = Fabtasque Sans Mono:size=8;1
 
 modules-left = bspwm
 modules-center = date
-modules-right = filesystem volume battery
+modules-right = filesystem volume battery brightness
 module-margin = 1
 
 override-redirect = false
 wm-restack = bspwm
+
+[module/brightness]
+type = custom/script
+exec = ~/.config/scripts/getPrettyBrightness.sh
+interval = 1
+label = Brightness: %output%
 
 [module/bspwm]
 type = internal/bspwm
@@ -51,7 +58,7 @@ type = internal/volume
 format-volume = <label-volume>
 format-muted = <label-muted>
 label-volume = Volume: %percentage%%
-label-muted = Volume: %percentage%%
+label-muted = Volume: %percentage%%(Muted)
 
 [module/filesystem]
 type = internal/fs
@@ -70,3 +77,4 @@ full-at = 99
 
 label-charging = Charging--%percentage%%
 label-discharging = Battery: %percentage%%
+label-full = Battery: %percentage%%
