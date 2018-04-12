@@ -8,6 +8,9 @@ super + c
 super + d
 	~/.config/polybar/launch.sh
 
+super + r
+	urxvt -e ranger
+
 XF86AudioRaiseVolume
 	amixer -q set Master 1%+
 
@@ -16,6 +19,12 @@ XF86AudioLowerVolume
 
 XF86AudioMute
 	amixer -q set Master toggle
+
+XF86MonBrightnessUp
+    ~/.config/scripts/changeBrightness.sh 0.1
+
+XF86MonBrightnessDown
+    ~/.config/scripts/changeBrightness.sh -0.1
 
 super + F2
 	amixer -q set Master 50%
@@ -33,7 +42,7 @@ super + F6
 	bspc config window_gap 12
 
 super + F7
-	wal -i ~/Pictures/Wallpapers
+	wal -i ~/Pictures/Wallpapers; ~/.config/lemonbar/launch.sh
 
 #
 # wm independent hotkeys

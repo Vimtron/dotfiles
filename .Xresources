@@ -3,6 +3,7 @@ URxvt.intensityStyles: false
 URxvt.font: xft:Fantasque Sans Mono:size=8:antialias=true:hinting=true
 URxvt.letterSpace: 0
 URxvt.internalBorder: 15
+URxvt.perl-ext-common: selection-to-clipboard
 
 Xft.autohint: 0
 Xft.lcdfilter: lcddefault
