@@ -13,9 +13,9 @@ padding = 1
 background = ${colors.background}
 foreground = ${colors.foreground}
 
-font-0 = Fabtasque Sans Mono:size=8;1
+font-0 = inconsolata:size=8
 
-modules-left = bspwm
+modules-left = bspwm mpd
 modules-center = date
 modules-right = filesystem volume battery brightness
 module-margin = 1
@@ -30,6 +30,11 @@ monitor = DVI-I-1
 [bar/laptop]
 inherit = section/base
 monitor = LVDS-1
+
+[module/mpd]
+type = internal/mpd
+
+format-online = <label-song> [<label-time>]
 
 [module/brightness]
 type = custom/script
