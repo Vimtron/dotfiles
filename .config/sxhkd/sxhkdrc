@@ -27,7 +27,7 @@ XF86MonBrightnessDown
     ~/.config/scripts/changeBrightness.sh -0.1
 
 super + F2
-	amixer -q set Master 50%
+	amixer -q set Master 68%
 
 super + F3
 	amixer -q set Master 0%
@@ -42,7 +42,7 @@ super + F6
 	bspc config window_gap 12
 
 super + F7
-	wal -i ~/Pictures/Wallpapers; ~/.config/lemonbar/launch.sh
+	wal -i ~/Pictures/Wallpapers
 
 #
 # wm independent hotkeys

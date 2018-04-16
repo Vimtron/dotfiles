@@ -1,6 +1,8 @@
 URxvt.scrollBar: false
 URxvt.intensityStyles: false
-URxvt.font: xft:Fantasque Sans Mono:size=8:antialias=true:hinting=true
+!URxvt.font: xft:Fantasque Sans Mono:size=8:antialias=true:hinting=true
+URxvt.font: xft:inconsolata:size=8:antialias=true:hinting=true
+
 URxvt.letterSpace: 0
 URxvt.internalBorder: 15
 URxvt.perl-ext-common: selection-to-clipboard
