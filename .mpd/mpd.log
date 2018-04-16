@@ -1,0 +1,315 @@
+Apr 15 11:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 11:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 11:24 : exception: Failed to enable output "My Pulse Output" [pulse]
+Apr 15 11:24 : exception: nested: pa_context_connect() has failed: Connection refused
+Apr 15 11:24 : update: added Grandaddy/The Sophtware Slump/Jed the Humanoid.mp3
+Apr 15 11:24 : update: added Grandaddy/The Sophtware Slump/He's Simple, He's Dumb, He's the Pilot.mp3
+Apr 15 11:24 : update: added Grandaddy/The Sophtware Slump/So You'll Aim Toward the Sky.mp3
+Apr 15 11:24 : update: added Grandaddy/The Sophtware Slump/Broken Household Appliance National Forest.mp3
+Apr 15 11:24 : update: added Grandaddy/The Sophtware Slump/E. Knievel Interlude (The Perils of Keeping It Real).mp3
+Apr 15 11:24 : update: added Grandaddy/The Sophtware Slump/Underneath the Weeping Willow.mp3
+Apr 15 11:24 : update: added Grandaddy/The Sophtware Slump/The Crystal Lake.mp3
+Apr 15 11:24 : update: added Grandaddy/The Sophtware Slump/Miner at the Dial-A-View.mp3
+Apr 15 11:24 : update: added Grandaddy/The Sophtware Slump/Chartsengrafs.mp3
+Apr 15 11:24 : update: added Grandaddy/The Sophtware Slump/Jed's Other Poem (Beautiful Ground).mp3
+Apr 15 11:24 : update: added Grandaddy/The Sophtware Slump/Hewlett's Daughter.mp3
+Apr 15 11:25 : client: [0] opened from 127.0.0.1:52324
+Apr 15 11:26 : exception: Failed to enable output "My Pulse Output" [pulse]
+Apr 15 11:26 : exception: nested: pa_context_connect() has failed: Connection refused
+Apr 15 11:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 11:26 : exception: Failed to enable output "My Pulse Output" [pulse]
+Apr 15 11:26 : exception: nested: pa_context_connect() has failed: Connection refused
+Apr 15 11:26 : exception: Failed to enable output "My Pulse Output" [pulse]
+Apr 15 11:26 : exception: nested: pa_context_connect() has failed: Connection refused
+Apr 15 11:26 : exception: Failed to open audio output
+Apr 15 11:26 : exception: Failed to enable output "My Pulse Output" [pulse]
+Apr 15 11:26 : exception: nested: pa_context_connect() has failed: Connection refused
+Apr 15 11:26 : exception: Failed to enable output "My Pulse Output" [pulse]
+Apr 15 11:26 : exception: nested: pa_context_connect() has failed: Connection refused
+Apr 15 11:26 : exception: Failed to enable output "My Pulse Output" [pulse]
+Apr 15 11:26 : exception: nested: pa_context_connect() has failed: Connection refused
+Apr 15 11:26 : player: played "Grandaddy/The Sophtware Slump/He's Simple, He's Dumb, He's the Pilot.mp3"
+Apr 15 11:30 : client: [0] closed
+Apr 15 11:30 : player: played "Grandaddy/The Sophtware Slump/He's Simple, He's Dumb, He's the Pilot.mp3"
+Apr 15 11:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 11:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 11:30 : update: added Grandaddy/The Sophtware Slump/Jed the Humanoid.mp3
+Apr 15 11:30 : update: added Grandaddy/The Sophtware Slump/He's Simple, He's Dumb, He's the Pilot.mp3
+Apr 15 11:30 : update: added Grandaddy/The Sophtware Slump/So You'll Aim Toward the Sky.mp3
+Apr 15 11:30 : update: added Grandaddy/The Sophtware Slump/Broken Household Appliance National Forest.mp3
+Apr 15 11:30 : update: added Grandaddy/The Sophtware Slump/E. Knievel Interlude (The Perils of Keeping It Real).mp3
+Apr 15 11:30 : update: added Grandaddy/The Sophtware Slump/Underneath the Weeping Willow.mp3
+Apr 15 11:30 : update: added Grandaddy/The Sophtware Slump/The Crystal Lake.mp3
+Apr 15 11:30 : update: added Grandaddy/The Sophtware Slump/Miner at the Dial-A-View.mp3
+Apr 15 11:30 : update: added Grandaddy/The Sophtware Slump/Chartsengrafs.mp3
+Apr 15 11:30 : update: added Grandaddy/The Sophtware Slump/Jed's Other Poem (Beautiful Ground).mp3
+Apr 15 11:30 : update: added Grandaddy/The Sophtware Slump/Hewlett's Daughter.mp3
+Apr 15 11:31 : client: [0] opened from 127.0.0.1:52348
+Apr 15 11:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 16:43 : player: played "Grandaddy/The Sophtware Slump/He's Simple, He's Dumb, He's the Pilot.mp3"
+Apr 15 16:47 : player: played "Grandaddy/The Sophtware Slump/Hewlett's Daughter.mp3"
+Apr 15 16:51 : player: played "Grandaddy/The Sophtware Slump/Jed the Humanoid.mp3"
+Apr 15 16:56 : player: played "Grandaddy/The Sophtware Slump/The Crystal Lake.mp3"
+Apr 15 16:59 : player: played "Grandaddy/The Sophtware Slump/Chartsengrafs.mp3"
+Apr 15 17:02 : player: played "Grandaddy/The Sophtware Slump/Underneath the Weeping Willow.mp3"
+Apr 15 17:21 : player: played "Grandaddy/The Sophtware Slump/Broken Household Appliance National Forest.mp3"
+Apr 15 17:25 : player: played "Grandaddy/The Sophtware Slump/Jed's Other Poem (Beautiful Ground).mp3"
+Apr 15 17:26 : player: played "Grandaddy/The Sophtware Slump/E. Knievel Interlude (The Perils of Keeping It Real).mp3"
+Apr 15 17:32 : player: played "Grandaddy/The Sophtware Slump/Miner at the Dial-A-View.mp3"
+Apr 15 17:37 : player: played "Grandaddy/The Sophtware Slump/So You'll Aim Toward the Sky.mp3"
+Apr 15 17:41 : client: [0] closed
+Apr 15 17:41 : client: [1] opened from 127.0.0.1:53084
+Apr 15 17:41 : client: [1] closed
+Apr 15 17:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 17:42 : update: added Grandaddy/The Sophtware Slump/Jed the Humanoid.mp3
+Apr 15 17:42 : update: added Grandaddy/The Sophtware Slump/He's Simple, He's Dumb, He's the Pilot.mp3
+Apr 15 17:42 : update: added Grandaddy/The Sophtware Slump/So You'll Aim Toward the Sky.mp3
+Apr 15 17:42 : update: added Grandaddy/The Sophtware Slump/Broken Household Appliance National Forest.mp3
+Apr 15 17:42 : update: added Grandaddy/The Sophtware Slump/E. Knievel Interlude (The Perils of Keeping It Real).mp3
+Apr 15 17:42 : update: added Grandaddy/The Sophtware Slump/Underneath the Weeping Willow.mp3
+Apr 15 17:42 : update: added Grandaddy/The Sophtware Slump/The Crystal Lake.mp3
+Apr 15 17:42 : update: added Grandaddy/The Sophtware Slump/Miner at the Dial-A-View.mp3
+Apr 15 17:42 : update: added Grandaddy/The Sophtware Slump/Chartsengrafs.mp3
+Apr 15 17:42 : update: added Grandaddy/The Sophtware Slump/Jed's Other Poem (Beautiful Ground).mp3
+Apr 15 17:42 : update: added Grandaddy/The Sophtware Slump/Hewlett's Daughter.mp3
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : update: added Still Corners/Strange Pleasures/Future Age.m4a
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : update: added Still Corners/Strange Pleasures/Strange Pleasures.m4a
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : update: added Still Corners/Strange Pleasures/Fireflies.m4a
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : update: added Still Corners/Strange Pleasures/The Trip.m4a
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : update: added Still Corners/Strange Pleasures/All I Know.m4a
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : update: added Still Corners/Strange Pleasures/We Killed the Moonlight.m4a
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : update: added Still Corners/Strange Pleasures/Beginning to Blue.m4a
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : update: added Still Corners/Strange Pleasures/Berlin Lovers.m4a
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : update: added Still Corners/Strange Pleasures/I Can't Sleep.m4a
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : update: added Still Corners/Strange Pleasures/Beatcity.m4a
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : update: added Still Corners/Strange Pleasures/Midnight Drive.m4a
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : update: added Still Corners/Strange Pleasures/Going Back to Strange.m4a
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : update: added Still Corners/Strange Pleasures/We Have the Future on Tape (Bonus Track).m4a
+Apr 15 17:42 : client: [0] opened from 127.0.0.1:53092
+Apr 15 17:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:42 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 17:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 17:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:48 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 17:48 : player: played "Still Corners/Strange Pleasures/The Trip.m4a"
+Apr 15 17:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:51 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 17:52 : player: played "Still Corners/Strange Pleasures/Beginning to Blue.m4a"
+Apr 15 17:55 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:55 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 17:55 : player: played "Still Corners/Strange Pleasures/I Can't Sleep.m4a"
+Apr 15 17:59 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 17:59 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 17:59 : player: played "Still Corners/Strange Pleasures/All I Know.m4a"
+Apr 15 18:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:02 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 18:03 : player: played "Still Corners/Strange Pleasures/Fireflies.m4a"
+Apr 15 18:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:24 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 18:24 : player: played "Still Corners/Strange Pleasures/Berlin Lovers.m4a"
+Apr 15 18:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:27 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 18:27 : player: played "Still Corners/Strange Pleasures/Future Age.m4a"
+Apr 15 18:29 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:29 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 18:30 : player: played "Still Corners/Strange Pleasures/Going Back to Strange.m4a"
+Apr 15 18:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:33 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 18:34 : player: played "Still Corners/Strange Pleasures/Beatcity.m4a"
+Apr 15 18:38 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:38 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 18:38 : player: played "Still Corners/Strange Pleasures/Midnight Drive.m4a"
+Apr 15 18:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:41 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 18:41 : player: played "Still Corners/Strange Pleasures/We Killed the Moonlight.m4a"
+Apr 15 18:47 : player: played "Still Corners/Strange Pleasures/Strange Pleasures.m4a"
+Apr 15 18:55 : client: [0] closed
+Apr 15 18:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 18:56 : update: added Jack White/Boarding House Reach/Why Walk a Dog.flac
+Apr 15 18:56 : update: added Jack White/Boarding House Reach/Ezmerelda Steals the Show.flac
+Apr 15 18:56 : update: added Jack White/Boarding House Reach/Ice Station Zebra.flac
+Apr 15 18:56 : update: added Jack White/Boarding House Reach/What's Done Is Done.flac
+Apr 15 18:56 : update: added Jack White/Boarding House Reach/Over and Over and Over.flac
+Apr 15 18:56 : update: added Jack White/Boarding House Reach/Humoresque.flac
+Apr 15 18:56 : update: added Jack White/Boarding House Reach/Hypermisophoniac.flac
+Apr 15 18:56 : update: added Jack White/Boarding House Reach/Get in the Mind Shaft.flac
+Apr 15 18:56 : update: added Jack White/Boarding House Reach/Everything You've Ever Learned.flac
+Apr 15 18:56 : update: added Jack White/Boarding House Reach/Corporation.flac
+Apr 15 18:56 : update: added Jack White/Boarding House Reach/Respect Commander.flac
+Apr 15 18:56 : update: added Jack White/Boarding House Reach/Abulia and Akrasia.flac
+Apr 15 18:56 : update: added Jack White/Boarding House Reach/Connected by Love.flac
+Apr 15 18:56 : update: added Grandaddy/The Sophtware Slump/Jed the Humanoid.mp3
+Apr 15 18:56 : update: added Grandaddy/The Sophtware Slump/He's Simple, He's Dumb, He's the Pilot.mp3
+Apr 15 18:56 : update: added Grandaddy/The Sophtware Slump/So You'll Aim Toward the Sky.mp3
+Apr 15 18:56 : update: added Grandaddy/The Sophtware Slump/Broken Household Appliance National Forest.mp3
+Apr 15 18:56 : update: added Grandaddy/The Sophtware Slump/E. Knievel Interlude (The Perils of Keeping It Real).mp3
+Apr 15 18:56 : update: added Grandaddy/The Sophtware Slump/Underneath the Weeping Willow.mp3
+Apr 15 18:56 : update: added Grandaddy/The Sophtware Slump/The Crystal Lake.mp3
+Apr 15 18:56 : update: added Grandaddy/The Sophtware Slump/Miner at the Dial-A-View.mp3
+Apr 15 18:56 : update: added Grandaddy/The Sophtware Slump/Chartsengrafs.mp3
+Apr 15 18:56 : update: added Grandaddy/The Sophtware Slump/Jed's Other Poem (Beautiful Ground).mp3
+Apr 15 18:56 : update: added Grandaddy/The Sophtware Slump/Hewlett's Daughter.mp3
+Apr 15 18:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:56 : update: added Still Corners/Strange Pleasures/Future Age.m4a
+Apr 15 18:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:56 : update: added Still Corners/Strange Pleasures/Strange Pleasures.m4a
+Apr 15 18:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:56 : update: added Still Corners/Strange Pleasures/Fireflies.m4a
+Apr 15 18:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:56 : update: added Still Corners/Strange Pleasures/The Trip.m4a
+Apr 15 18:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:56 : update: added Still Corners/Strange Pleasures/All I Know.m4a
+Apr 15 18:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:56 : update: added Still Corners/Strange Pleasures/We Killed the Moonlight.m4a
+Apr 15 18:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:56 : update: added Still Corners/Strange Pleasures/Beginning to Blue.m4a
+Apr 15 18:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:56 : update: added Still Corners/Strange Pleasures/Berlin Lovers.m4a
+Apr 15 18:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:56 : update: added Still Corners/Strange Pleasures/I Can't Sleep.m4a
+Apr 15 18:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:56 : update: added Still Corners/Strange Pleasures/Beatcity.m4a
+Apr 15 18:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:56 : update: added Still Corners/Strange Pleasures/Midnight Drive.m4a
+Apr 15 18:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:56 : update: added Still Corners/Strange Pleasures/Going Back to Strange.m4a
+Apr 15 18:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 18:56 : update: added Still Corners/Strange Pleasures/We Have the Future on Tape (Bonus Track).m4a
+Apr 15 18:56 : client: [0] opened from 127.0.0.1:53582
+Apr 15 18:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 19:01 : player: played "Jack White/Boarding House Reach/Connected by Love.flac"
+Apr 15 19:03 : player: played "Jack White/Boarding House Reach/Why Walk a Dog.flac"
+Apr 15 19:09 : player: played "Jack White/Boarding House Reach/Corporation.flac"
+Apr 15 19:10 : player: played "Jack White/Boarding House Reach/Abulia and Akrasia.flac"
+Apr 15 19:14 : player: played "Jack White/Boarding House Reach/Hypermisophoniac.flac"
+Apr 15 19:18 : player: played "Jack White/Boarding House Reach/Ice Station Zebra.flac"
+Apr 15 19:21 : player: played "Jack White/Boarding House Reach/Over and Over and Over.flac"
+Apr 15 19:24 : player: played "Jack White/Boarding House Reach/Everything You've Ever Learned.flac"
+Apr 15 19:28 : player: played "Jack White/Boarding House Reach/Respect Commander.flac"
+Apr 15 19:30 : player: played "Jack White/Boarding House Reach/Ezmerelda Steals the Show.flac"
+Apr 15 19:34 : player: played "Jack White/Boarding House Reach/Get in the Mind Shaft.flac"
+Apr 15 19:37 : player: played "Jack White/Boarding House Reach/What's Done Is Done.flac"
+Apr 15 19:40 : player: played "Jack White/Boarding House Reach/Humoresque.flac"
+Apr 15 19:51 : player: played "Grandaddy/The Sophtware Slump/He's Simple, He's Dumb, He's the Pilot.mp3"
+Apr 15 19:54 : player: played "Grandaddy/The Sophtware Slump/Hewlett's Daughter.mp3"
+Apr 15 19:59 : player: played "Grandaddy/The Sophtware Slump/Jed the Humanoid.mp3"
+Apr 15 20:04 : player: played "Grandaddy/The Sophtware Slump/The Crystal Lake.mp3"
+Apr 15 20:06 : player: played "Grandaddy/The Sophtware Slump/Chartsengrafs.mp3"
+Apr 15 20:12 : player: played "Grandaddy/The Sophtware Slump/Underneath the Weeping Willow.mp3"
+Apr 15 20:16 : player: played "Grandaddy/The Sophtware Slump/Broken Household Appliance National Forest.mp3"
+Apr 15 20:20 : player: played "Grandaddy/The Sophtware Slump/Jed's Other Poem (Beautiful Ground).mp3"
+Apr 15 20:22 : player: played "Grandaddy/The Sophtware Slump/E. Knievel Interlude (The Perils of Keeping It Real).mp3"
+Apr 15 20:27 : player: played "Grandaddy/The Sophtware Slump/Miner at the Dial-A-View.mp3"
+Apr 15 20:29 : client: [1] opened from 127.0.0.1:54282
+Apr 15 20:29 : client: [1] closed
+Apr 15 20:32 : player: played "Grandaddy/The Sophtware Slump/So You'll Aim Toward the Sky.mp3"
+Apr 15 20:34 : client: [2] opened from 127.0.0.1:54294
+Apr 15 20:34 : client: [2] closed
+Apr 15 20:41 : player: played "Jack White/Boarding House Reach/Over and Over and Over.flac"
+Apr 15 20:44 : player: played "Jack White/Boarding House Reach/Everything You've Ever Learned.flac"
+Apr 15 20:48 : player: played "Jack White/Boarding House Reach/Respect Commander.flac"
+Apr 15 20:50 : client: [3] opened from 127.0.0.1:54420
+Apr 15 20:50 : player: played "Jack White/Boarding House Reach/Ezmerelda Steals the Show.flac"
+Apr 15 20:53 : player: played "Jack White/Boarding House Reach/Get in the Mind Shaft.flac"
+Apr 15 20:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 20:54 : update: added Jack White/Boarding House Reach/Why Walk a Dog.flac
+Apr 15 20:54 : update: added Jack White/Boarding House Reach/Ezmerelda Steals the Show.flac
+Apr 15 20:54 : update: added Jack White/Boarding House Reach/Ice Station Zebra.flac
+Apr 15 20:54 : update: added Jack White/Boarding House Reach/What's Done Is Done.flac
+Apr 15 20:54 : update: added Jack White/Boarding House Reach/Over and Over and Over.flac
+Apr 15 20:54 : update: added Jack White/Boarding House Reach/Humoresque.flac
+Apr 15 20:54 : update: added Jack White/Boarding House Reach/Hypermisophoniac.flac
+Apr 15 20:54 : update: added Jack White/Boarding House Reach/Get in the Mind Shaft.flac
+Apr 15 20:54 : update: added Jack White/Boarding House Reach/Everything You've Ever Learned.flac
+Apr 15 20:54 : update: added Jack White/Boarding House Reach/Corporation.flac
+Apr 15 20:54 : update: added Jack White/Boarding House Reach/Respect Commander.flac
+Apr 15 20:54 : update: added Jack White/Boarding House Reach/Abulia and Akrasia.flac
+Apr 15 20:54 : update: added Jack White/Boarding House Reach/Connected by Love.flac
+Apr 15 20:54 : update: added Grandaddy/The Sophtware Slump/Jed the Humanoid.mp3
+Apr 15 20:54 : update: added Grandaddy/The Sophtware Slump/He's Simple, He's Dumb, He's the Pilot.mp3
+Apr 15 20:54 : update: added Grandaddy/The Sophtware Slump/So You'll Aim Toward the Sky.mp3
+Apr 15 20:54 : update: added Grandaddy/The Sophtware Slump/Broken Household Appliance National Forest.mp3
+Apr 15 20:54 : update: added Grandaddy/The Sophtware Slump/E. Knievel Interlude (The Perils of Keeping It Real).mp3
+Apr 15 20:54 : update: added Grandaddy/The Sophtware Slump/Underneath the Weeping Willow.mp3
+Apr 15 20:54 : update: added Grandaddy/The Sophtware Slump/The Crystal Lake.mp3
+Apr 15 20:54 : update: added Grandaddy/The Sophtware Slump/Miner at the Dial-A-View.mp3
+Apr 15 20:54 : update: added Grandaddy/The Sophtware Slump/Chartsengrafs.mp3
+Apr 15 20:54 : update: added Grandaddy/The Sophtware Slump/Jed's Other Poem (Beautiful Ground).mp3
+Apr 15 20:54 : update: added Grandaddy/The Sophtware Slump/Hewlett's Daughter.mp3
+Apr 15 20:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 20:54 : update: added Still Corners/Strange Pleasures/Future Age.m4a
+Apr 15 20:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 20:54 : update: added Still Corners/Strange Pleasures/Strange Pleasures.m4a
+Apr 15 20:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 20:54 : update: added Still Corners/Strange Pleasures/Fireflies.m4a
+Apr 15 20:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 20:54 : update: added Still Corners/Strange Pleasures/The Trip.m4a
+Apr 15 20:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 20:54 : update: added Still Corners/Strange Pleasures/All I Know.m4a
+Apr 15 20:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 20:54 : update: added Still Corners/Strange Pleasures/We Killed the Moonlight.m4a
+Apr 15 20:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 20:54 : update: added Still Corners/Strange Pleasures/Beginning to Blue.m4a
+Apr 15 20:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 20:54 : update: added Still Corners/Strange Pleasures/Berlin Lovers.m4a
+Apr 15 20:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 20:54 : update: added Still Corners/Strange Pleasures/I Can't Sleep.m4a
+Apr 15 20:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 20:54 : update: added Still Corners/Strange Pleasures/Beatcity.m4a
+Apr 15 20:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 20:54 : update: added Still Corners/Strange Pleasures/Midnight Drive.m4a
+Apr 15 20:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 20:54 : update: added Still Corners/Strange Pleasures/Going Back to Strange.m4a
+Apr 15 20:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 20:54 : update: added Still Corners/Strange Pleasures/We Have the Future on Tape (Bonus Track).m4a
+Apr 15 21:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 21:03 : client: [0] opened from 127.0.0.1:38962
+Apr 15 21:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 21:03 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 21:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 21:09 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 21:09 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 21:09 : player: played "Still Corners/Strange Pleasures/The Trip.m4a"
+Apr 15 21:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 21:12 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 21:12 : player: played "Still Corners/Strange Pleasures/Beginning to Blue.m4a"
+Apr 15 21:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 21:16 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 21:16 : player: played "Still Corners/Strange Pleasures/I Can't Sleep.m4a"
+Apr 15 21:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 21:19 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 21:19 : player: played "Still Corners/Strange Pleasures/All I Know.m4a"
+Apr 15 21:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 21:22 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 21:22 : player: played "Still Corners/Strange Pleasures/Fireflies.m4a"
+Apr 15 21:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 21:31 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 21:32 : player: played "Still Corners/Strange Pleasures/Berlin Lovers.m4a"
+Apr 15 21:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 21:34 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 21:35 : player: played "Still Corners/Strange Pleasures/Future Age.m4a"
+Apr 15 21:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 21:37 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 21:37 : player: played "Still Corners/Strange Pleasures/Going Back to Strange.m4a"
+Apr 15 21:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 21:41 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 21:41 : player: played "Still Corners/Strange Pleasures/Beatcity.m4a"
+Apr 15 21:45 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 21:45 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 21:46 : player: played "Still Corners/Strange Pleasures/Midnight Drive.m4a"
+Apr 15 21:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 15 21:49 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 15 21:49 : player: played "Still Corners/Strange Pleasures/We Killed the Moonlight.m4a"
