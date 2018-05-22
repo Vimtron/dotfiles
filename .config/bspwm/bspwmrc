@@ -18,3 +18,4 @@ bspc rule -a Skype desktop='^9' follow=off
 
 $HOME/.config/polybar/launch.sh
 skypeforlinux &
+betterlockscreen -u $HOME/Pictures/Wallpapers/ &

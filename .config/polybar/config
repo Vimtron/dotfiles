@@ -21,6 +21,10 @@ module-margin = 1
 override-redirect = false
 wm-restack = bspwm
 
+tray-position = right
+tray-padding = 0
+tray-scale = 0.95
+
 [bar/desktop]
 inherit = section/base
 font-0 = inconsolata:size=8

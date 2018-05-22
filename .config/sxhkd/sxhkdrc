@@ -11,6 +11,9 @@ super + d
 super + r
 	urxvt -e ranger
 
+super + alt + shift + l
+    betterlockscreen -s
+
 XF86AudioRaiseVolume
 	amixer -q set Master 1%+
 
@@ -42,7 +45,7 @@ super + F6
 	bspc config window_gap 12
 
 super + F7
-	wal -i ~/Pictures/Wallpapers
+    ~/.config/scripts/redoPywal.sh	
 
 #
 # wm independent hotkeys
