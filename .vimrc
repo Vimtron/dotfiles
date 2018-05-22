@@ -5,7 +5,10 @@ Plug 'tpope/vim-surround'
 Plug 'scrooloose/syntastic'
 Plug 'kien/ctrlp.vim'
 Plug 'scrooloose/nerdcommenter'
+Plug 'dylanaraps/wal.vim'
 call plug#end()
+
+colorscheme wal
 
 map <C-n> :NERDTreeToggle<CR>
 
