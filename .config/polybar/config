@@ -13,8 +13,6 @@ padding = 1
 background = ${colors.background}
 foreground = ${colors.foreground}
 
-font-0 = inconsolata:size=8
-
 modules-left = bspwm mpd
 modules-center = date
 modules-right = filesystem volume battery brightness
@@ -25,10 +23,12 @@ wm-restack = bspwm
 
 [bar/desktop]
 inherit = section/base
+font-0 = inconsolata:size=8
 monitor = DVI-I-1
 
 [bar/laptop]
 inherit = section/base
+font-0 = inconsolata:size=7
 monitor = LVDS-1
 
 [module/mpd]
