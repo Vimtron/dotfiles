@@ -251,6 +251,7 @@ s=$(cat <<-END
     # Otherwise the "#" and following would be interpreted as a comment.
     background = "$color0"
     foreground = "$color15"
+    frame_color = "$color15"
     timeout = 10
     # Icon for notifications with low urgency, uncomment to enable
     #icon = /path/to/icon
@@ -258,14 +259,15 @@ s=$(cat <<-END
 [urgency_normal]
     background = "$color0"
     foreground = "$color15"
+    frame_color = "$color15"
     timeout = 10
     # Icon for notifications with normal urgency, uncomment to enable
     #icon = /path/to/icon
 
 [urgency_critical]
     background = "$color15"
-    foreground = "$color8"
-    frame_color = "#ff0000"
+    foreground = "$color0"
+    frame_color = "$color3"
     timeout = 0
     # Icon for notifications with critical urgency, uncomment to enable
     #icon = /path/to/icon
