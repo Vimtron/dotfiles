@@ -3,6 +3,7 @@
 source "${HOME}/.cache/wal/colors.sh"
 
 wal -i ~/Pictures/Wallpapers
+betterlockscreen -u ~/Pictures/Wallpapers & 
 ~/.config/scripts/updateDunstrc.sh
 ~/.config/scripts/reloadDunst.sh
 bspc config normal_border_color "$color1"
