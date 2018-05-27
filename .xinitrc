@@ -4,9 +4,9 @@ xautolock -time 30 -locker "betterlockscreen -s" &
 mpd &
 xset m 1/1 0 &
 ~/.screenlayout/default.sh &
-megasync &
 dunst &
 mpdscribble &
+ibus-daemon --xim &
 ~/.config/scripts/redoPywal.sh 
 sxhkd &
 exec bspwm

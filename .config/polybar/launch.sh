@@ -5,7 +5,16 @@ killall -q polybar
 while pgrep -u $UID -x polybar>/dev/null; do sleep 1; done
 
 if [ "$HOSTNAME" == "Desktop" ]; then
-    polybar desktop &
+    if [ "$1" = "true" ]; then
+        polybar desktopWithTray &
+    else
+        polybar desktop &
+    fi
 else
-    polybar laptop &
+    if [ "$1" = "true" ]; then
+        polybar laptopWithTray &
+    else
+        polybar laptop &
+    fi
 fi
+echo $1

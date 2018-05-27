@@ -6,7 +6,7 @@ super + c
 	exec chromium
 
 super + d
-	~/.config/polybar/launch.sh
+	~/.config/scripts/toggleSystray.sh
 
 super + r
 	urxvt -e ranger
