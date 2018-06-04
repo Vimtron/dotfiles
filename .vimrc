@@ -15,7 +15,6 @@ colorscheme wal
 let mapleader = " "
 let g:arduino_dir = '~/Arduino'
 
-map <C-n> :NERDTreeToggle<CR>
 nmap <silent> <leader>ev :e $MYVIMRC<CR>
 nmap <silent> <leader>sv :so $MYVIMRC<CR>
 nmap <C-n> :NERDTreeToggle<CR>
