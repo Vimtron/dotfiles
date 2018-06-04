@@ -10,6 +10,8 @@ height = 27
 
 padding = 1
 
+font-1 = Sazanami Mincho:size=8
+
 background = ${colors.background}
 foreground = ${colors.foreground}
 

@@ -17,4 +17,4 @@ else
         polybar laptop &
     fi
 fi
-echo $1
+

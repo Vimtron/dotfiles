@@ -5,6 +5,7 @@ mpd &
 xset m 1/1 0 &
 ~/.screenlayout/default.sh &
 dunst &
+megasync &
 mpdscribble &
 ibus-daemon --xim &
 ~/.config/scripts/redoPywal.sh 

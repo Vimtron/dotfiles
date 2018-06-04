@@ -11,7 +11,7 @@ super + d
 super + r
 	urxvt -e ranger
 
-super + alt + shift + l
+super + o
     betterlockscreen -s
 
 XF86AudioRaiseVolume

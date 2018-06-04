@@ -19,6 +19,5 @@ bspc rule -a Steam desktop='^8' follow=off state=tiled
 
 $HOME/.config/polybar/launch.sh
 skypeforlinux &
-megasync &
 steam &
 betterlockscreen -u $HOME/Pictures/Wallpapers/ &
